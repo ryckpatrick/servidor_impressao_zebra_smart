@@ -1,9 +1,9 @@
-# Servidor de Impressão para zebra zd220t e gc420t
+# Servidor de Impressão para Zebra ZD220t e GC420t ou modelos compatíveis com a aplicação.
 
 #### Objetivo
-Criar de um sevidor de impressão, utilizando raspberry com a liguagem java para controlar as impressora zebras via rede
+Criar de um sevidor de impressão utilizando um Raspberry com a liguagem Java para se comunicar com as impressoras via rede.
 
 #### Requesitos
-1. raspberry pi 3 ou 4
-2. sistema [debian](https://raspi.debian.net/tested-images/)
+1. Raspberry Pi 3 ou 4
+2. Sistema [debian](https://raspi.debian.net/tested-images/)
 
